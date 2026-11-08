@@ -1,1 +1,5 @@
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=donnamaelat&theme=default&background=FFFFFF&border=1E3A8A&stroke=E2E8F0&ring=1E3A8A&fire=1E3A8A&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=475569)](https://github.com/donnamaelat)
+
+</div>
